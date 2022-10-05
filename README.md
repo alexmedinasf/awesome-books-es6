@@ -6,7 +6,7 @@ Awesome books ES6
 
 - HTML
 - CSS
-- Javascript ES6
+- Javascript
 
 ## Live version
 Check [here](https://alexmedinasf.github.io/awesome-books-es6/) the live version.
