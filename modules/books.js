@@ -3,7 +3,7 @@ export default class Book {
     this.title = title;
     this.author = author;
   }
-  
+
     addBook = () => {
       const books = JSON.parse(localStorage.getItem('books')) || [];
       books.push(this);
