@@ -31,7 +31,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Microverse for the opportunity
+- Microverse for the opportunity.
 
 ## 📝 License
 
