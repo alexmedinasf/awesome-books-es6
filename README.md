@@ -1,3 +1,6 @@
+
+> In this project, I built a basic website that allows users to add/remove books from a list. I achieved that by using JavaScript objects and arrays. I also had to dynamically modify the DOM and add basic events.
+
 # Project Name
 
 Awesome books ES6
